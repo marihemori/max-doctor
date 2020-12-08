@@ -1,0 +1,14 @@
+:root {
+  font-size: 60%;
+
+  --color-white: #ffffff;
+  --color-grey: #4e4e4e;
+  --color-light-grey: #747474;
+  --color-purple: #7e479b;
+  --color-medium-purple: #926ea7;
+  --color-light-purple: #c1a8cf;
+  --color-background: linear-gradient(90deg, var(--color-white) 0%, var(--color-light-purple) 100%);
+  --background: var(--color-light-purple);
+  --color-error: #DF4747;
+  --coloor-success: #3CAF57;
+}               
